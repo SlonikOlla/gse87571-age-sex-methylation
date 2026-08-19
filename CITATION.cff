@@ -13,4 +13,9 @@ version: 1.0.1
 date-released: 2026-08-19
 repository-code: "https://github.com/SlonikOlla/gse87571-age-sex-methylation"
 url: "https://github.com/SlonikOlla/gse87571-age-sex-methylation"
+doi: "10.5281/zenodo.22019149"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22019149"
+    description: "Zenodo archive of version v1.0.1"
 license: MIT
