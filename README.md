@@ -1,5 +1,7 @@
 # Robust age-by-sex interactions in whole-blood DNA methylation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22019149.svg)](https://doi.org/10.5281/zenodo.22019149)
+
 This repository package supports the reanalysis of the public GSE87571 HumanMethylation450 dataset described in the manuscript *Robust Age-by-Sex Interactions in Whole-Blood DNA Methylation: A Reanalysis of GSE87571*.
 
 ## Contents
@@ -33,3 +35,4 @@ The repository contains the reported outputs so readers can inspect all numerica
 
 Please cite the associated manuscript and the original GSE87571 study. Code is released under the MIT License. Data and numerical results remain subject to the terms of their originating sources.
 
+Version v1.0.1 is permanently archived at [Zenodo](https://doi.org/10.5281/zenodo.22019149).
