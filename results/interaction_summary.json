@@ -1,0 +1,22 @@
+{
+  "samples": 729,
+  "female": 388,
+  "male": 341,
+  "total_probes": 485512,
+  "autosomal_probes": 473821,
+  "quality_masked": 64144,
+  "detection_fail_filter": 2634,
+  "eligible_probes": 404783,
+  "unadjusted_fdr_lt_0.05": 60,
+  "unadjusted_hc3_fdr_lt_0.05": 48,
+  "unadjusted_cluster_fdr_lt_0.05": 20,
+  "cell_adjusted_fdr_lt_0.05": 20,
+  "cell_adjusted_hc3_fdr_lt_0.05": 16,
+  "cell_adjusted_cluster_fdr_lt_0.05": 10,
+  "fully_adjusted_fdr_lt_0.05": 52,
+  "fully_adjusted_hc3_fdr_lt_0.05": 13,
+  "fully_adjusted_cluster_fdr_lt_0.05": 10,
+  "fully_adjusted_linear_age_fdr_lt_0.05": 52,
+  "fully_adjusted_linear_age_hc3_fdr_lt_0.05": 13,
+  "fully_adjusted_linear_age_cluster_fdr_lt_0.05": 9
+}

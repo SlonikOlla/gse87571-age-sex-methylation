@@ -1,0 +1,3 @@
+lambda_gc	0.929421
+significant_fdr_0.05	13
+significant_hc3_and_slide_cluster_fdr_0.05	7

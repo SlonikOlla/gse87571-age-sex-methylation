@@ -1,6 +1,6 @@
 # Robust age-by-sex interactions in whole-blood DNA methylation
 
-This repository supports the reanalysis of the public GSE87571 HumanMethylation450 dataset described in the manuscript *Robust Age-by-Sex Interactions in Whole-Blood DNA Methylation: A Reanalysis of GSE87571*.
+This repository package supports the reanalysis of the public GSE87571 HumanMethylation450 dataset described in the manuscript *Robust Age-by-Sex Interactions in Whole-Blood DNA Methylation: A Reanalysis of GSE87571*.
 
 ## Contents
 
@@ -32,3 +32,4 @@ The repository contains the reported outputs so readers can inspect all numerica
 ## Citation and license
 
 Please cite the associated manuscript and the original GSE87571 study. Code is released under the MIT License. Data and numerical results remain subject to the terms of their originating sources.
+

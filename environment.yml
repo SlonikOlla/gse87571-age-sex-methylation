@@ -1,0 +1,13 @@
+name: gse87571-age-sex
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - pyarrow
+  - matplotlib
+  - seaborn
+  - openpyxl
+
