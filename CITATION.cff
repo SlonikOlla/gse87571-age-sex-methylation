@@ -9,7 +9,7 @@ authors:
     given-names: Yaroslav
   - family-names: Kovalchuk
     given-names: Igor
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-08-19
 repository-code: "https://github.com/SlonikOlla/gse87571-age-sex-methylation"
 url: "https://github.com/SlonikOlla/gse87571-age-sex-methylation"
