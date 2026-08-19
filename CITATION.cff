@@ -11,5 +11,6 @@ authors:
     given-names: Igor
 version: 1.0.0
 date-released: 2026-08-19
+repository-code: "https://github.com/SlonikOlla/gse87571-age-sex-methylation"
+url: "https://github.com/SlonikOlla/gse87571-age-sex-methylation"
 license: MIT
-
